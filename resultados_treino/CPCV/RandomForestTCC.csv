@@ -1,0 +1,5 @@
+,params,mean roc auc,scores
+0,"class_weight='balanced_subsample', criterion='entropy',
+                       max_features=1, min_weight_fraction_leaf=0.01,
+                       n_estimators=1000, random_state=0",0.5165888164362611,"[0.52140646 0.5231299  0.52682787 0.52174775 0.5059294  0.51832951
+ 0.51331214 0.50717645 0.50883168 0.51919701]"
