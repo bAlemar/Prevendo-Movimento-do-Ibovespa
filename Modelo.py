@@ -11,11 +11,11 @@ import numpy as np
 import os
 
 class Modelo():
-    def __init__(self,tipo_variavel) -> None:
+    def __init__(self,tipo_variavel,ativo_name) -> None:
         #Funcao que irá carregar os dados
         funcao_dados = function_Dados()
-        funcao_dados.Carregar_dados(ativo_name='^BVSP',
-                                    start='2001-01-01',
+        funcao_dados.Carregar_dados(ativo_name=ativo_name,
+                                    start='2002-01-01',
                                     end= '2023-12-01'
                                     )
         funcao_dados.Variaveis(tipo_variavel)
