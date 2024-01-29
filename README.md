@@ -1,4 +1,5 @@
-# Fraude de Crédito
+# Previsão do Índice Ibovespa
+Link para artigo completo: [Artigo](https://www.linkedin.com/posts/bernardo-alemar-9117a11a2_meu-trabalho-de-conclus%C3%A3o-de-curso-activity-7154963100826271744-564t?utm_source=share&utm_medium=member_desktop)
 
 ## 💼 Contexto:
 O mercado financeiro é afetado diariamente por fatores econômicos, culturais, políticos e aleatórios (catástrofes naturais). Diante dessa grande variação, prever a direção futura do mercado torna-se uma tarefa de extrema dificuldade. Nesse cenário, técnicas estatísticas e matemáticas são comumente utilizadas para previsão de mercado.
