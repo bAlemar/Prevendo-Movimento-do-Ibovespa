@@ -157,7 +157,7 @@ com variáveis binarias, permitindo a comparação de desempenho entre ambas.
 O modelo que melhor performou foi de SVM, superando o ibovespa no período de 2018~2023.
 
 
-<img src="imgs/Retorno_SVM.png" align="center" height=auto width=60%/>
+<img src="imgs/Retorno_SVM.png" align="center" height=auto width=100%/>
 
 
 
